@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Mai Yang.
+- 👀 I’m interested in learning more about API and Agile Scrum Framework Management.
+- 🌱 I’m currently learning React.js framework.
+- 📫 How to reach me:
+- EMAIL: myang012@gmail.com
+- Github: https://github.com/mcyang12
+- LinkedIn: www.linkedin.com/in/mcy12
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I know 5 different cultural languages, Hmong, English, Thai, Korean, and Spanish. Will be adding ASL onto the growing list.
